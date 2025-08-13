@@ -18,7 +18,9 @@ A Power BI dashboard analyzing 129.88K airline passengers, focusing on punctuali
 - `/PBIX` – Power BI dashboard file
 - `/Data` – Dataset used (public/cleaned version)
 - `/Images` – Screenshots of dashboard
-- Screenshot 2025-08-12 Airline .png
+-
+![Uploading Screenshot 2025-08-12 Airline .png…]()
+
   
 
 ## How to View
